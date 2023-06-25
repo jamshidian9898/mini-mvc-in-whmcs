@@ -1,0 +1,17 @@
+{
+    "name": "jamshidian9898/whmcs-mini-mvc",
+    "description": "mini mvc framework on whmcs module",
+    "autoload": {
+        "psr-4": {
+            "MiniMVC\\App\\": "app/",
+            "MiniMVC\\Lang\\": "lang/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mohammad jamshidian",
+            "email": "jamshidian9898@gmail.com"
+        }
+    ],
+    "require": {}
+}
